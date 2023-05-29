@@ -1,0 +1,1 @@
+let name = "Zulfuqar Seyfyullali";console.log(name);
